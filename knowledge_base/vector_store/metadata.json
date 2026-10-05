@@ -1,0 +1,7 @@
+[
+{"source":"demo_maintenance_manual.txt","chunk_id":1,"text":"Engine overheating: inspect coolant level, radiator airflow, thermostat and cooling fan. Do not continue operation when temperature remains in the critical range."},
+{"source":"demo_maintenance_manual.txt","chunk_id":2,"text":"Low oil pressure: verify oil level and correct grade, inspect leaks, check oil filter and pressure sensor, and inspect the lubrication circuit before returning the vehicle to service."},
+{"source":"demo_maintenance_manual.txt","chunk_id":3,"text":"Excessive vibration: inspect engine mounts, rotating assemblies, belts, bearings and drivetrain alignment. Escalate if vibration increases rapidly or is accompanied by abnormal noise."},
+{"source":"demo_maintenance_manual.txt","chunk_id":4,"text":"Low battery voltage: check battery terminals, state of charge, charging system and alternator output. Isolate electrical faults before replacing components."},
+{"source":"demo_maintenance_manual.txt","chunk_id":5,"text":"Priority guidance: critical conditions require immediate inspection; high priority issues should be inspected within 24 hours; medium issues within 7 days; low-risk conditions can be monitored."}
+]
